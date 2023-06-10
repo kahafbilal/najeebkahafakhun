@@ -5,3 +5,14 @@ body {
     color: rgb(21, 2, 5);
 }
 
+ul li {
+    display: flex;
+    flex-direction: column;    
+}
+
+.programes {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    color: brown;
+}
+
